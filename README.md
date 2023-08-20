@@ -1,7 +1,7 @@
 # sqlalchemy-challenge
-Module 10 Challenge
 
-Description
+
+**Description**  
 Module Challenge 10 - SQL Alchemy with Flask API
 
 This challenge is used to undertake a climate analysis for a trip to Honolulu, Hawaii.
@@ -14,5 +14,5 @@ climate_starter.ipynb - SQL Alchemy in a Jupyter Notebook
 
 app.py - flask API
 
-Credits
+**Credits**    
 Code used was drawn from in class and google searches to find why code wasn't working. The coding followed similar to in class activities.
